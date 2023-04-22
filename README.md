@@ -29,7 +29,7 @@ cd eset_webconsole_activation
 To run the script, execute the following command:
 
 ```bash
-python3 eset_webconsole_activation.py <username> <password> <licence file>
+python3 eset_webconsole_activation.py <username> <password> <ERAServer port> <licence file>
 ```
 
 Replace `<username>`, `<password>`, `<ERAServer port>` and `<licence file>` with your ESET Web Console credentials, ERA server port and the path to your license file.
